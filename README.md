@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @maurice46
-- 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently studying computer science with a minor in data science. Relevant coursework that I've taken includes data structures and algorithms, object-oriented programming, and data mining. 
-- 💞️ I’m looking to build more advanced projects, practice more algorithms, and improve my overall knowledge in the field. 
-  
+👋 Welcome to My GitHub!
+I'm @maurice46, a computer science student aspiring to become a software developer passionate about solving problems and turning ideas into reality through code.
+
+🌟 About Me
+I’m diving deep into technology as I study Computer Science with a minor in Data Science.
+Relevant Coursework includes:
+1) Data Structures and Algorithms: Focusing on fundamentals for efficient coding.
+2) Object-Oriented Programming: Embracing the power of design and abstraction.
+3) Data Mining: Learning new methods for data analysis
+
+
+🚀 My Goals
+I’m on a mission to expand my skill set and take on more complex projects. I'm particularly keen on:
+- Building advanced applications that challenge my creativity.
+- Practicing algorithms to enhance my problem-solving abilities.
+- Continuously improving my knowledge and expertise in the tech landscape.
