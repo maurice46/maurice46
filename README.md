@@ -1,5 +1,5 @@
 👋 Welcome to My GitHub!
-I'm @maurice46, a computer science student aspiring to become a software developer passionate about solving problems and turning ideas into reality through code.
+I'm @maurice46, a computer science student passionate about solving problems and coding. 
 
 🌟 About Me
 I’m diving deep into technology as I study Computer Science with a minor in Data Science.
