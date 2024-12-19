@@ -10,7 +10,7 @@ Relevant Coursework includes:
 
 
 🚀 My Goals
-I’m on a mission to expand my skill set and take on more complex projects. I'm particularly keen on:
+I’m expanding my skill set and taking on more complex projects. I'm particularly keen on:
 - Building advanced applications that challenge my creativity.
 - Practicing algorithms to enhance my problem-solving abilities.
 - Continuously improving my knowledge and expertise in the tech landscape.
