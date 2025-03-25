@@ -1,16 +1,5 @@
 👋 Welcome to My GitHub!
-I'm @maurice46, a computer science student passionate about solving problems and coding. 
-
-🌟 About Me
-I’m diving deep into technology as I study Computer Science with a minor in Data Science.
-Relevant Coursework includes:
-1) Data Structures and Algorithms: Focusing on fundamentals for efficient coding.
-2) Object-Oriented Programming: Embracing the power of design and abstraction.
-3) Data Mining: Learning new methods for data analysis
-
-
-🚀 My Goals
-I’m expanding my skill set and taking on more complex projects. I'm particularly keen on:
-- Building advanced applications that challenge my creativity.
-- Practicing algorithms to enhance my problem-solving abilities.
-- Continuously improving my knowledge and expertise in the tech landscape.
+I'm @maurice46, a computer science student interesting in coding and computer networking. 
+I am an enthusiastic and dedicated individual eager to expand my technical abilities and grow in the field of IT. 
+I am looking for an opportunity that allows me to gain hands-on experience, continuously improve and learn new skills, 
+and contribute to a team while advancing my knowledge and expertise in the field. 
