@@ -66,11 +66,4 @@ Outside of the help desk, I like building things — neural networks from scratc
 **University of Sioux Falls** — B.S. Computer Science, Minor in Data Science (2022 – 2026)
 GPA: 3.7
 
----
 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/msb4443">LinkedIn</a> ·
-  <a href="mailto:mau4ic3@gmail.com">Email</a>
-</p>
