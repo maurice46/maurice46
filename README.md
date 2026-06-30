@@ -57,7 +57,6 @@ Outside of the help desk, I like building things — neural networks from scratc
 | **Ticketing System API Backend** | Developed a backend API for a ticketing system to handle ticket creation, tracking, and status updates. | Python |
 | **Exploratory Data Analysis Projects** | Ongoing EDA work across various datasets to strengthen data analysis, visualization, and problem-solving skills. | Python, Pandas, Matplotlib |
 
-> 📌 Pin your top 4-6 repos above on your GitHub profile so they show up alongside this README!
 
 ---
 
