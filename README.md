@@ -19,7 +19,7 @@ Outside of the help desk, I like building things — neural networks from scratc
 - 🔭 Currently working on EDA projects and networking fundamentals
 - 🌱 Currently studying for the **CCNA certification**
 - 💬 Ask me about Tier 1 IT support, SQL database design, or Power BI dashboards
-- ⚡ Fun fact: I'm bilingual (Spanish) and enjoy turning messy data into clean insights
+- ⚡ Fun fact: I'm bilingual (Spanish) 
 
 ---
 
