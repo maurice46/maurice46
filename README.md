@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Maurice Murillo 👋</h1>
-<h3 align="center">IT Support Associate | Aspiring Data Analyst | CS Grad from University of Sioux Falls</h3>
+<h1 align="center">Hi, I'm Maurice👋</h1>
+<h3 align="center">IT Support | Computer Networking | CS Grad from University of Sioux Falls</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/msb4443"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,12 +10,7 @@
 
 ### 🧭 About Me
 
-I recently earned my **B.S. in Computer Science (Minor in Data Science)** from the University of Sioux Falls and am building my career in Information Technology and data analysis.
-
-As an **IT Associate** at the University of Sioux Falls, I've resolved 300+ Tier 1 support tickets, managed accounts in **Microsoft Entra ID**, deployed and configured devices, and troubleshot network connectivity issues through **DHCP, Wi-Fi, and PacketFence** — all logged and tracked via the **KACE** ticketing system. That work sharpened my troubleshooting instincts, my customer service skills, and my ability to translate technical solutions for people with all levels of tech comfort.
-
-Outside of the help desk, I like building things — neural networks from scratch, dashboards that tell a story, and backend systems that keep data organized. I'm currently working toward my **CCNA certification** and sharpening my data analysis and visualization chops through hands-on **EDA (Exploratory Data Analysis)** projects.
-
+I recently earned my **B.S. in Computer Science (Minor in Data Science)** from the University of Sioux Falls and am building my career in Information Technology.
 - 🔭 Currently working on EDA projects and networking fundamentals
 - 🌱 Currently studying for the **CCNA certification**
 - 💬 Ask me about Tier 1 IT support, SQL database design, or Power BI dashboards
@@ -44,19 +39,6 @@ Outside of the help desk, I like building things — neural networks from scratc
 - Statistics and exploratory data analysis (EDA)
 - Data cleaning, aggregation, and database design
 - Data visualization with Power BI and Python
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Neural Network with Custom Activation Function** | Built a neural network from scratch, implementing and testing a custom activation function to explore its effect on training performance. | Python |
-| **Drug Overdose Dashboard** | Interactive Power BI dashboard analyzing overdose trends across demographics and regions to surface actionable public health insights. | Power BI |
-| **Music Streaming Database** | Designed and built a relational database modeling a music streaming platform, including schema design and query optimization. | SQL |
-| **Ticketing System API Backend** | Developed a backend API for a ticketing system to handle ticket creation, tracking, and status updates. | Python |
-| **Exploratory Data Analysis Projects** | Ongoing EDA work across various datasets to strengthen data analysis, visualization, and problem-solving skills. | Python, Pandas, Matplotlib |
-
 
 ---
 
