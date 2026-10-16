@@ -11,8 +11,10 @@
 ### 🧭 About Me
 
 I recently earned my **B.S. in Computer Science (Minor in Data Science)** from the University of Sioux Falls and am building my career in Information Technology.
-- 🔭 Currently working on EDA and other coding projects
-- 🌱 Currently studying for the **CCNA certification**
+
+What I am doing right now:
+- 🔭 Currently working on networking and personal coding projects. 
+- 🌱 Studying for the **CCNA certification**
 - ⚡ Improving Spanish
 
 ---
