@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maurice👋</h1>
-<h3 align="center">IT Support | Computer Networking | CS Grad from University of Sioux Falls</h3>
+<h3 align="center">IT Support | Computer Networking | CS Grad</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/msb4443"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
