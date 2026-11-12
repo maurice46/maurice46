@@ -10,11 +10,11 @@
 
 ### 🧭 About Me
 
-I recently earned my **B.S. in Computer Science (Minor in Data Science)** from the University of Sioux Falls and am building my career in Information Technology.
+Computer Science graduate working towards the Cisco Certified Network Associate certificate. 
 
 What I am doing right now:
 - 🔭 Coding projects
-- 🌱 Studying for the **CCNA certification**
+- 🌱 Studying for the **CCNA**
 - ⚡ Spanish
 
 ---
@@ -22,4 +22,4 @@ What I am doing right now:
 ### 🎓 Education
 
 **University of Sioux Falls** — B.S. Computer Science, Minor in Data Science 
-
+Jeremy's IT Lab - Cisco Certified Network Associate 
