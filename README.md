@@ -22,4 +22,4 @@ What I am doing right now:
 ### 🎓 Education
 
 **University of Sioux Falls** — B.S. Computer Science, Minor in Data Science 
-Jeremy's IT Lab - Cisco Certified Network Associate 
+**Jeremy's IT Lab - Cisco Certified Network Associate 
